@@ -1,0 +1,13 @@
+{
+  "name": "catfiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "main.js"
+  },
+  "main":"main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
